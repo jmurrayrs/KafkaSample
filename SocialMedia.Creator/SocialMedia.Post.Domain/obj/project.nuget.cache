@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5e4TIWddHRDMwDLHWrXJVpfbQ4PkKU68IN0XrDMiS/xTmPy9jKDiiH5KNLvwpk/G27ZzILfeWgjKJCna8406dQ==",
+  "success": true,
+  "projectFilePath": "/home/jmurray/Documentos/KafkaSample/SocialMedia.Creator/SocialMedia.Post.Domain/SocialMedia.Post.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/jmurray/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/jmurray/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/jmurray/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

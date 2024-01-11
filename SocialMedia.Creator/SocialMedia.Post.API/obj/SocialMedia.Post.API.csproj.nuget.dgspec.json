@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jmurray/Documentos/KafkaSample/SocialMedia.Creator/SocialMedia.Post.API/SocialMedia.Post.API.csproj": {}
+  },
+  "projects": {
+    "/home/jmurray/Documentos/KafkaSample/SocialMedia.Creator/SocialMedia.Post.API/SocialMedia.Post.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jmurray/Documentos/KafkaSample/SocialMedia.Creator/SocialMedia.Post.API/SocialMedia.Post.API.csproj",
+        "projectName": "SocialMedia.Post.API",
+        "projectPath": "/home/jmurray/Documentos/KafkaSample/SocialMedia.Creator/SocialMedia.Post.API/SocialMedia.Post.API.csproj",
+        "packagesPath": "/home/jmurray/.nuget/packages/",
+        "outputPath": "/home/jmurray/Documentos/KafkaSample/SocialMedia.Creator/SocialMedia.Post.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jmurray/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Haidai-Tech/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
